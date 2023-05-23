@@ -1,0 +1,7 @@
+LANGKAH - LANGKAH
+
+Nama	: I Komang Deni Urip Prima Saputra
+Nim	: 2201010606
+
+buka link ini untuk membuat database dan tablenya(http://localhost/WPUTS-2201010606/database.php)
+buka link ini untuk masuk ke beranda (http://localhost/WPUTS-2201010606/)
